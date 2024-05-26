@@ -36,5 +36,5 @@ Your time and consideration in reviewing this submission are greatly appreciated
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="www.linkedin.com/in/eppa-sai-vardhan-reddy">E Sai Vardhan Reddy (LinkedIn)</a>
+- <a href="https://www.linkedin.com/in/eppa-sai-vardhan-reddy/">E Sai Vardhan Reddy (LinkedIn)</a>
 - Email: saivardhan507@gmail.com
